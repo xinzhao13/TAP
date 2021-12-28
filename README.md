@@ -14,7 +14,7 @@ This repo stores the material used for Edexcel GCSE Maths (Higher) teaching sinc
 | 07_Geometry      | Questions   gathered for geometry.                            | Downloaded from [Maths Made Easy](https://mathsmadeeasy.co.uk/).                                                                                                                                                                                                              |
 
 ## Tutorial planning 📒
-Tutorials are usually planned ahead of the revision of a topic, link to the summary tables have been linked here where available.
+Tutorials are usually planned ahead of the revision of a topic, links to the summary tables have been provided below where available.
 
 | Topic                                   | Planning table                                                                                                             |
 |-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
