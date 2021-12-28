@@ -25,5 +25,5 @@ Tutorials are usually planned ahead of the revision of a topic, links to the sum
 | Geometry                                | WIP, [Notion   page](https://www.notion.so/xinzhao13/a75bdd29713e4abd91f9e2c79ed57a36?v=bc5d1c41c0334d7aa3ef87fbf12fa52b). |
 | Trigonometry                            |                                                                                                                            |
 | Probability                             | Not provided.                                                                                                              |
-| Statistics                              | WIP                                                                                                                        | 
+| Statistics                              |                                                                                                                            | 
 
