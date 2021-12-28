@@ -1,6 +1,6 @@
 # TAP
 ## About this repo 🔈
-This repo stores the material used for Edexcel GCSE Maths (Higher) teaching since November 2021. The source of materials are provided next to the relevant content below.
+This repo stores the material I'm using for Pearson Edexcel GCSE Maths (Higher) teaching since November 2021. The tutorials are offered online and for free under [the Access Project](https://www.theaccessproject.org.uk/?gclid=CjwKCAiAiKuOBhBQEiwAId_sK3qo-nEWIakRT-AtEJE0LFrQjSaU0hmLx0DCC7atto6aAr5zMo8DyBoCngwQAvD_BwE) that is aimed at supporting students from disadvantaged backgrounds to access top universities. I come from a background in maths and I hope to help my next generation to gain confidence in maths learning. This repo is being shared as I have not seen many sources set up systematically for this particular exam board and level, and thought it'd be useful for future maths tutors. All sources to materials are provided next to the relevant content below.
 
 ## Key folder 📂
 
